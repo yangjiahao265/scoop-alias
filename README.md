@@ -2,6 +2,8 @@
 
 ## 目前已包含的别名包括：
 - ### **reinstall**
+- ### **bucket origin**
+- ### **java env**
 
 ---
 
